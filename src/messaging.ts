@@ -1,3 +1,4 @@
 export enum Message {
-  LOADED = "loaded",
+    LOADED = 'loaded',
+    STORE_ELEMENTS = 'store-elements',
 }
